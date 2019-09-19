@@ -74,3 +74,8 @@ export { default as Whisper } from './Whisper';
 export { default as Navbar } from './Navbar';
 export { default as Row } from './Row';
 export { default as Schema } from './Schema';
+export { default as Placeholder } from './Placeholder';
+export { default as List } from './List';
+export { default as Calendar } from './Calendar';
+export { default as Avatar } from './Avatar';
+export { default as Badge } from './Badge';
